@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Haskell
-- 💬 Ask me about instagram
+- 💬 Ask me about instagram [@Instagram](https://www.instagram.com/im_umerg/)
