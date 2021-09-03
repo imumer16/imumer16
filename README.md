@@ -32,8 +32,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imumer12&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 # 📊 Github Stats (Expand to View)
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=tokyonight)
-
+</p>
 
 
 
@@ -42,6 +43,6 @@
 
 
 # Support:
-<p><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br><br>
 
 
