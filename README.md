@@ -38,7 +38,7 @@
   <br/>
   <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-
+<p/>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" height="192px"/>
