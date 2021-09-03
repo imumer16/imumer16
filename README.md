@@ -45,7 +45,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact" alt="imumer12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&locale=en" alt="imumer12" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&locale=en" alt="imumer12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&" alt="imumer12" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&" alt="imumer12" /></p>
 
