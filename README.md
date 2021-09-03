@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi , I'm Umer Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Moblie developer from Pakistan</h3>
 
@@ -64,7 +65,8 @@
 <br/>
   &nbsp;
   <p align="center">  
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" height="192px"/>
+	  ![3](https://user-images.githubusercontent.com/84404257/132043807-760ba97b-680e-4b0f-914b-eab64a7ae5fa.png)
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
