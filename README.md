@@ -52,7 +52,8 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-<a href="https://github.com/imumer12"><img alt="Harris's Activity Graph" src="https://activity-graph.herokuapp.com/graph?	username=imumer&custom_title=Umer%20Ahmed's%20Contribution%20Graph&theme=tokyonight" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imumer12&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <br/>
 
 </details>
