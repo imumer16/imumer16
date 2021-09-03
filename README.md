@@ -63,7 +63,8 @@
 <br/>
   &nbsp;
 	  <p align="center"> 
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&count-private=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" height="192px"/> </p>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumer12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -91,6 +92,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumer12&exclude_repo=CPP,imumer12.github.io&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
