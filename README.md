@@ -13,4 +13,7 @@ align:center [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?u
 🌃 Evening    235 commits    ████████░░░░░░░░░░░░░░░░░   31.5%  <br/>
 🌙 Night      203 commits    ██████░░░░░░░░░░░░░░░░░░░   27.21%  <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=radical)
+
+
 
