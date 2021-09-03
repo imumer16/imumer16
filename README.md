@@ -16,8 +16,13 @@
 
 
 <hr/>
-- 🌱 I’m currently learning **Dart**  
+- 🔭 I’m currently working on **multiple projects**
 
+- 🌱 I’m currently learning **everything thing that I can**
+
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 🤝 I’m looking for help with **Dart**
 
 
 <hr/>
