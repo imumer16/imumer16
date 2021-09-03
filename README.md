@@ -13,7 +13,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imumer12" alt="imumer12" /></a> </p>
 
-- 🌱 I’m currently learning **Dart**
+
+- 🌱 I’m currently learning **Dart**  <-- 
 
 # 🙋‍♀️ Let's Connect
 <p align="center">
