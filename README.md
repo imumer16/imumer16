@@ -91,6 +91,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumer12&exclude_repo=CPP,imumer12.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumer12&exclude_repo=CPP,imumer12.github.io&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
