@@ -33,7 +33,7 @@
 
 # 📊 Github Stats 
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=tokyonight)
 </p>
 
 
