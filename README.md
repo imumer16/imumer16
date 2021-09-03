@@ -81,7 +81,14 @@
 <hr/>
 
 
-![Pixel Art Felt Sad GIF - Find ](https://user-images.githubusercontent.com/84404257/132013424-05307f85-dafd-4381-9ad7-ab90e4325aa7.gif)
+## 🐍 Snake Eating My Github Contributions!
+<br/>
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+<br/>
+
+<hr/>
+
 
 
 
