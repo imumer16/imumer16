@@ -88,7 +88,7 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imumer12)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/imumer12?username=imumer12)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
