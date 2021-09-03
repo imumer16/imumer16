@@ -51,7 +51,8 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/imharris24"><img alt="Harris's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imharris24&custom_title=Muhammad%20Harris's%20Contribution%20Graph&theme=react-dark" /></a>
+
+<a href="https://github.com/imumer12"><img alt="Harris's Activity Graph" src="https://activity-graph.herokuapp.com/graph?	username=imumer&custom_title=Umer%20Ahmed's%20Contribution%20Graph&theme=tokyonight" /></a>
   <br/>
 
 </details>
