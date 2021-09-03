@@ -6,10 +6,10 @@
 - 🤔 I’m looking for help with Haskell
 - 💬 Ask me about instagram [@Instagram](https://www.instagram.com/im_umerg/)
 
-align:center [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imumer12&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imumer12&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&theme=highcontrast)
 
 
 
