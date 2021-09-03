@@ -46,7 +46,7 @@
 <hr/>
 
 # 🔥 Streak Stats 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=dark" alt="imumer12"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight" alt="imumer12"  /></p>
 
 <br/>
 <hr/>
