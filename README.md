@@ -38,11 +38,12 @@
 
 
 
-
-
-
-
 # Support:
 <p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br><br>
 
 
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
