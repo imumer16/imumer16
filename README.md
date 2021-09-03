@@ -64,7 +64,7 @@
 <br/>
   &nbsp;
   <p align="center">  
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imharris24&show_icons=true&locale=en&layout=compact&theme=algolia" alt="imharris24" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="imumer12" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -89,10 +89,6 @@
 # Support:
 <p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br><br>
 <hr/>
-
-
-
-
 
 
 
