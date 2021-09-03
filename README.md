@@ -66,10 +66,8 @@
   &nbsp;
   <p align="center">
 	  <p align="center"><img src="https://user-images.githubusercontent.com/84404257/132043807-760ba97b-680e-4b0f-914b-eab64a7ae5fa.png" alt="imumer12"  /></p>
-
-
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
