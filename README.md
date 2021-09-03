@@ -84,6 +84,5 @@
 <hr/>
 
 
-https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq
 
 
