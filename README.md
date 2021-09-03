@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Haskell
 - 💬 Ask me about instagram [@Instagram](https://www.instagram.com/im_umerg/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imumer12&theme=dark&background=000000)](https://git.io/streak-stats)
+align:center [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imumer12&theme=dark&background=000000)](https://git.io/streak-stats)
 
 🌞 Morning    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63% <br/>
 🌆 Daytime    169 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65%  <br/>
