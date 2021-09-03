@@ -44,6 +44,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight" alt="imumer12"  /></p>
 
 <br/>
+<hr/>
 
 
 # 📊 Github Stats (Expand to View) 
@@ -72,7 +73,7 @@
   <br/>
 
 </details>
-
+<hr/>
 
 
 
@@ -80,7 +81,7 @@
 
 # Support:
 <p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br><br>
-
+<hr/>
 
 
 
