@@ -62,10 +62,9 @@
 </p>
 <br/>
   &nbsp;
-
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumer12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  <p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="imumer12" height="192px"/>
+</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
