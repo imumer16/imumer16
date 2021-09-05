@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imumer12&label=Profile%20views&color=0e75b6&style=flat" alt="imumer12" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imumer12" alt="imumer12" /></a> </p>
-
+<p align="center"> <img src="https://img.shields.io/github/stars/imumer12?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p>
 
 
 <hr/>
