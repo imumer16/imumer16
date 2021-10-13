@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/stars/imumer12?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
-<p align="center"> <a href="https://github.com/imumer12"><img src="https://github-profile-trophy.vercel.app/?username=imumer12" alt="imumer12" /></a> </p>
 
 
 
