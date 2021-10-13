@@ -71,7 +71,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/imumer12"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 </p>
 <br/>
   &nbsp;
