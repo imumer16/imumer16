@@ -30,6 +30,11 @@
 
 <hr/>
 
+<p align="center">
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_python%20(Basic).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/python%20(Basic).png" alt="Gmail"/></a>
+
+</p>
+
 
 # 🙋‍♀️ Let's Connect
 <p align="center">
