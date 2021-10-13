@@ -31,8 +31,19 @@
 <hr/>
 
 <p align="center">
-	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_python%20(Basic).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/python%20(Basic).png" alt="Gmail"/></a>
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_python%20(Basic).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/python%20(Basic).png" alt="Python ( Basic )"/></a>
+	
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_C%23.png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/C%23%20(Basic).png" alt="C# ( Basic )"/></a>
 
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_Angular(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/Angular%20(Basic).png" alt="Angular ( Basic )"/></a>
+
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_Java(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/Java%20(Basic).png" alt="Java ( Basic )"/></a>
+	
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_javaScript(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/JavaScript%20(Basic).png" alt="JavaScript( Basic )"/></a>
+	
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_SQL(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/SQL%20(Basic).png" alt="SQL( Basic )"/></a>
+	
+	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_SQL(I).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/SQL%20(Intermediate).png" alt="SQL( Intermediate )"/></a>
 </p>
 
 
