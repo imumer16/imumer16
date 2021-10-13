@@ -102,5 +102,4 @@
 <p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br>
 <hr/>
 
-<p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://user-images.githubusercontent.com/84404257/132133151-07073445-81a3-448e-8459-6f68454af1d9.gif"alt="imumerg" /></a></p><br><br>
-<hr/>
+
