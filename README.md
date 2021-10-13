@@ -100,11 +100,12 @@
   <br/>
   <p align="center">
   <a href="https://github.com/imumer12/">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=imhumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" />
   </p>
 </details>	
 
 <hr/>
+
 # Support:
 <p align="center"><a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a></p><br>
 <hr/>
