@@ -90,7 +90,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imumer12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imumer12&theme=react-dark)](https://github.com/imumer12)
 
   <br/>
 
