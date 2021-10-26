@@ -28,7 +28,7 @@
 
 
 <hr/>
-
+<p align="center">
 - 🔭 I’m currently working on **multiple projects**
 
 - 🌱 I’m currently learning **everything thing that I can**
@@ -37,7 +37,7 @@
 
 - 🤝 I’m looking for help with **Dart**
 
-
+</p>
 <hr/>
 
 
