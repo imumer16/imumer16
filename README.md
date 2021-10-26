@@ -28,7 +28,7 @@
 
 
 <hr/>
-<p align="center" style="font-size:18px;">
+<p align="center" style="font-size:50px;">
 - 🔭 I’m currently working on **multiple projects**
 </p>
 <p align="center">
