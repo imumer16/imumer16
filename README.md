@@ -30,14 +30,17 @@
 <hr/>
 <p align="center">
 - 🔭 I’m currently working on **multiple projects**
-
-- 🌱 I’m currently learning **everything thing that I can**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **Dart**
-
 </p>
+<p align="center">
+- 🌱 I’m currently learning **everything thing that I can**
+</p>
+<p align="center">
+- 👯 I’m looking to collaborate on **open source projects**
+</p>	
+<p align="center">
+- 🤝 I’m looking for help with **Dart**
+</p>
+
 <hr/>
 
 
