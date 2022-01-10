@@ -1,0 +1,42 @@
+2.1.1	Phoenix Mars Lander	https://mars.nasa.gov/mars-exploration/missions/phoenix/
+
+2.1.2 Pathfinder and Sojourner		https://commons.wikimedia.org/wiki/File:Mars_pathfinder_and_sojourner.jpg
+
+2.1.3	Mars Global Surveyor		https://mars.nasa.gov/mars-exploration/missions/mars-global-surveyor/
+
+2.1.4	Viking 1 	https://mars.nasa.gov/mars-exploration/missions/viking-1-2/
+
+2.1.6	Mariner 9	https://mars.nasa.gov/mars-exploration/missions/mariner-8-9/
+
+2.1.7	Mariner 7	https://mars.nasa.gov/mars-exploration/missions/mariner-6-7/
+
+2.1.8	Mariner 3	https://mars.nasa.gov/mars-exploration/missions/mariner-3-4/
+
+2.2.1	Perseverance	https://mars.nasa.gov/mars-exploration/missions/mars2020/
+
+2.2.2	Tianwen-1 and Zhurong	https://www.planetary.org/space-missions/tianwen-1
+
+2.2.3	Hope	https://www.space.com/hope-mars-mission-united-arab-emirates-photos.html
+
+2.2.4	Insight		https://mars.nasa.gov/mars-exploration/missions/insight/
+
+2.2.5	ExoMars TGO	https://mars.nasa.gov/mars-exploration/missions/esa-exomars-2016-tgo/
+
+2.2.6	Maven		https://mars.nasa.gov/mars-exploration/missions/maven
+
+2.2.7	Mangalyaan	https://www.planetary.org/space-missions/mangalyaan
+
+2.2.8	Curiosity	https://mars.nasa.gov/mars-exploration/missions/mars-science-laboratory/
+
+2.2.9	Odyssey		https://mars.nasa.gov/mars-exploration/missions/odyssey/
+
+surface 	https://www.nasa.gov/mission_pages/msl/images/index.html
+Mars terraforming	https://www.universetoday.com/127311/guide-to-terraforming/
+solar shade	https://www.universetoday.com/127311/guide-to-terraforming/
+magnetic field		https://www.visualcapitalist.com/terraforming-101-mars-habitable-planet/
+
+drop astrodroid on mars	https://fisica.cab.cnea.gov.ar/estadistica/abramson/celestia/gallery/slides/Phobos%20and%20Mars.html
+
+biosphere on mars 	https://www.rosecityastronomers.net/calendar/2018/11/19/rca-general-meeting
+
+
