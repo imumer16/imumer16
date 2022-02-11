@@ -75,7 +75,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 	
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact" alt="imumer12" /></p>
+<p align="center"></p>
   <p align="center">  
 	  
   <a href="https://github.com/imumer12"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
@@ -83,7 +83,8 @@
 <br/>
   &nbsp;
   <p align="center">
-	  <p align="center"><img src="https://user-images.githubusercontent.com/84404257/132043807-760ba97b-680e-4b0f-914b-eab64a7ae5fa.png" alt="imumer12"  /></p>
+	 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact" alt="imumer12" />
+</p>
   <br/>
 
 
