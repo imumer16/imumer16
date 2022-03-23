@@ -134,21 +134,22 @@
 <img align="right" src="https://github.com/imumer12/imumer12/blob/main/Resources/giphy.gif" />
 
 <p align="left">
-- 🔭 I’m currently working on **multiple projects**
-</p>
-<br>
-<p align="left">
-- 🌱 I’m currently learning **everything thing that I can**
-</p>
-<br>
-<p align="left">
-- 👯 I’m looking to collaborate on **open source projects**
-</p>	
-<br>
-<p align="left">
-- 🤝 I’m looking for help with **Dart**
+<h4> - 🔭 I’m currently working on **multiple projects** </h4>
 </p>
 
+<p align="left">
+<h4> - 🌱 I’m currently learning **everything thing that I can** </h4>
+</p>
+
+<p align="left">
+<h4> - 👯 I’m looking to collaborate on **open source projects** </h4>
+</p>	
+
+<p align="left">
+<h4>- 🤝 I’m looking for help with **Dart** </h4>
+</p>
+
+<br>
 <br>
 <br>
 
