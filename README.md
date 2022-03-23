@@ -25,7 +25,11 @@
 	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_javaScript(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/JavaScript%20(Basic).png" alt="JavaScript( Basic )"/></a>
 	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_SQL(B).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/SQL%20(Basic).png" alt="SQL( Basic )"/></a>
 	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_SQL(I).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/SQL%20(Intermediate).png" alt="SQL( Intermediate )"/></a>
+	
 </p>
+
+
+
 
 <br />
 <table>
@@ -119,24 +123,31 @@
 
 
 
-
-
-<hr/>
 <p align="center">
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0373.gif"  width="60%"/>
+</p>	
+<br>
+<img align="right" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+<p align="left">
 - 🔭 I’m currently working on **multiple projects**
 </p>
-<p align="center">
+<br>
+<p align="left">
 - 🌱 I’m currently learning **everything thing that I can**
 </p>
-<p align="center">
+<br>
+<p align="left">
 - 👯 I’m looking to collaborate on **open source projects**
 </p>	
-<p align="center">
+<br>
+<p align="left">
 - 🤝 I’m looking for help with **Dart**
 </p>
-
-<hr/>
-
+<br>
+<br>
+<p align="center">
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0373.gif"  width="60%"/>
+</p>	
 
 
 # 🙋‍♀️ Let's Connect
