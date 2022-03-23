@@ -186,9 +186,19 @@
 </p>	
 	
 
-# 🔥 Streak Stats 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight_duo" alt="imumer12"  /></p>
 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight_duo" alt="imumer12"  /></p>
+
+<a href="https://github.com/imumer12"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a> <p>
+<br>
+<p align="center">
+<img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" />
+</p>	
+
+
+
+
+  <br/>
 <br/>
 
 
