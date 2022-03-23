@@ -163,7 +163,7 @@
 <thead align="center">
 <tr border: none;>
 <td><h3>🙋‍♀️ Let's Connect</h3></td>
-<td><h3>Languages and Tools:</h3></td>
+<td><h3>🛠️ Languages and Tools:</h3></td>
 </tr>
 	
 </thead>
