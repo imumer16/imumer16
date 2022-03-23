@@ -83,6 +83,14 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/imumer12/imumer12"><b>imumer12</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/imumer12?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/imumer12?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/imumer12?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/imumer12?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/imumer12?style=flat-square"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/imumer12/Algorithms-and-Data-structures"><b>Algorithms-and-Data-structures</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
@@ -107,20 +115,20 @@
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Python-turtle?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Fireworks-CPP"><b>Fireworks C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Fireworks-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks-CPP?style=flat-square"/></td>
+<td><a href="https://github.com/imumer12/Saving-Newton-Game"><b>Saving-Newton-Game</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Saving-Newton-Game?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Saving-Newton-Game?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Saving-Newton-Game?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Saving-Newton-Game?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Saving-Newton-Game?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Digital-Clock-CPP"><b>Digital Clock C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+<td><a href="https://github.com/imumer12/Tic-Tac-Toe"><b>Tic-Tac-Toe</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Tic-Tac-Toe?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Tic-Tac-Toe?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Tic-Tac-Toe?style=flat-square"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/imumer12/Web-Development-Projects"><b>Web-Development-Projects</b></a></td>
@@ -129,6 +137,22 @@
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Web-Development-Projects?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Web-Development-Projects?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Web-Development-Projects?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imumer12/Hangman"><b>Hangman</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Hangman?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Hangman?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Hangman?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Hangman?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Hangman?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imumer12/Python-Usefull-Code"><b>Python-Usefull-Code</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Python-Usefull-Code?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Python-Usefull-Code?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Python-Usefull-Code?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Python-Usefull-Code?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Python-Usefull-Code?style=flat-square"/></td>
 </tr>
 </tbody>
 </table>
