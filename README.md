@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Moblie developer from Pakistan</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Moblie+Developer;Lazy+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Moblie+Developer;Lazy+Programmer;Always%20learning%20new%20things&center=true&width=100%&height=50"></a>
 </p>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0521.gif" border="0" alt="animated-line-image-0521" /></a>
