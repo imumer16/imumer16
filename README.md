@@ -181,7 +181,9 @@
 <br/>  
 
 
-
+<p align="center">
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon.gif"  width="60%"/>
+</p>	
 	
 
 # 🔥 Streak Stats 
@@ -189,6 +191,10 @@
 
 <br/>
 
+
+<p align="center">
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon_2.gif"  width="60%"/>
+</p>	
 
 
 # 📊 Github Stats (Expand to View) 
