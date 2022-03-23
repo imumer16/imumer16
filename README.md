@@ -191,6 +191,9 @@
 
 <p align="center">
 <img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon.gif"  width="60%"/>
+</p>
+<p align="rigth">
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/ezgif.com-gif-maker.gif"  width="60%"/>
 </p>	
 <br/>
 
@@ -200,7 +203,7 @@
 
 
 <p align="center">
-<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon_2.gif"  width="60%"/>
+<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon_2.gif" />
 </p>	
 
 <p align="center">
