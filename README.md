@@ -152,7 +152,7 @@
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Python-Usefull-Code?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Python-Usefull-Code?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Python-Usefull-Code?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Python-Usefull-Codes?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Python-Usefull-Code?style=flat-square"/></td>
 </tr>
 </tbody>
 </table>
