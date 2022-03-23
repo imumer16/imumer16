@@ -127,7 +127,7 @@
 <img  src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0373.gif"  width="60%"/>
 </p>	
 <br>
-<img align="right" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+<img align="right" src="https://github.com/imumer12/imumer12/blob/main/Resources/giphy.gif" />
 <p align="left">
 - 🔭 I’m currently working on **multiple projects**
 </p>
