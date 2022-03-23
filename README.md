@@ -27,7 +27,10 @@
 	<a href="https://github.com/imumer12/imumer12/blob/main/Resources/C_SQL(I).png"><img src="https://github.com/imumer12/imumer12/blob/main/Resources/SQL%20(Intermediate).png" alt="SQL( Intermediate )"/></a>
 	
 </p>
-
+  <p align="center">
+  <a href="https://github.com/imumer12/">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" width="60%"/>
+  </p>
 
 <p align="center">
 <img align="center" src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0090.gif" width="60%" />
@@ -208,28 +211,14 @@
 </p>	
 
 
-# 📊 Github Stats (Expand to View) 
 
 
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imumer12&theme=react-dark)](https://github.com/imumer12)
 
-  <br/>
-</details>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br/>
-  <p align="center">
-  <a href="https://github.com/imumer12/">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=imumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" width="60%"/>
-  </p>
-</details>	
+	
 
 
 
