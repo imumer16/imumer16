@@ -183,6 +183,31 @@
 <br/>  
 
 
+
+
+
+
+<table>
+<thead align="center">
+<tr border: none;>
+<td><h3>🙋‍♀️ Let's Connect</h3></td>
+<td><h3>📊 More Statistics</h3></td>
+</tr>
+	
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>[![Tap to Reload](https://metrics.lecoq.io/imharris24?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imumer12)</td>
+
+</tr>
+
+</tbody>
+</table>
+<br/>  
+
+
+
 <p align="center">
 <img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon.gif"  width="60%"/>
 </p>	
