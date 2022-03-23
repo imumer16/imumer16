@@ -186,27 +186,20 @@
 
 
 
-
-
-
 <p align="center">
 <img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon.gif"  width="60%"/>
 </p>
-
 <br/>
 
 ![Metrics](https://metrics.lecoq.io/imumer12?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&people=1&reactions=1&stargazers=1&gists=1&pagespeed=1&fortune=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts.type=classic&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKarachi)
 
 <br/>
-<p align="left">
-<img  src="https://github.com/imumer12/imumer12/blob/main/Resources/ezgif.com-gif-maker.gif"  />
-</p>	
-
 
 <p align="center">
 <img  src="https://github.com/imumer12/imumer12/blob/main/Resources/dragon_2.gif" />
 </p>	
 
+<br>
 <p align="center">
 	<a href="https://www.buymeacoffee.com/imumerg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imumerg" /></a>
 </p>
