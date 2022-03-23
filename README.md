@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Moblie+Developer;Lazy+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50" width="100%"></a>
 </p>
 
-<img src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0297.gif" width="100%" height="250"/>
+<img src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0297.gif" width="100%" height="50"/>
 <br>
 <h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
