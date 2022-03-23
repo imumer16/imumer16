@@ -195,7 +195,8 @@
 <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" />
 </p>	
 
-
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 
   <br/>
@@ -209,24 +210,7 @@
 
 # 📊 Github Stats (Expand to View) 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-	
-<p align="center"></p>
-  <p align="center">  <a href="https://github.com/imumer12"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a> <p>
-<br/>
-	
-  <p align="center">
-	 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" />
-</p>
-  <br/>
 
-
-</p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
 
 <details>
