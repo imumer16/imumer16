@@ -1,5 +1,6 @@
-<h1 align="center">Hi ,I'm Umer Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"> <img src="https://github.com/imumer12/imumer12/blob/main/Resources/name%201.png"></p>
 <h3 align="center">A passionate Moblie developer from Pakistan</h3>
+<br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Moblie+Developer;Lazy+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50" width="100%"></a>
