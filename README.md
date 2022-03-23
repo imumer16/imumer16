@@ -10,6 +10,10 @@
 <br>
 
 <h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+
+<p align="center">
+<img align="center" src="https://github.com/imumer12/imumer12/blob/main/Resources/animated-line-image-0069.gif" width="60%" />
+</p>
 <br>
 
 
