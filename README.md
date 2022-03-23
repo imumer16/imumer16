@@ -28,9 +28,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imumer12&label=Profile%20views&color=0e75b6&style=flat" alt="imumer12" /> 
-<img src="https://img.shields.io/github/stars/imumer12?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imumer12&label=Profile%20views&color=0e75b6&style=flat" alt="imumer12" /> </p>
 
 
 
@@ -69,6 +67,72 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </p>
 
 
+## 🥇 My Projects
+	
+<br />
+<table>
+<thead align="center">
+<tr border: none;>
+<td><b>💻 Projects</b></td>
+<td><b>🌟 Stars</b></td>
+<td><b>🍴 Forks</b></td>
+<td><b>🐛 Issues</b></td>
+<td><b>🔔 Pull Requests</b></td>
+<td><b>👨‍💻 Language</b></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/imumer12/Algorithms-and-Data-structures"><b>Algorithms-and-Data-structures</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Algorithms-and-Data-structures?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-prim/umer12/Algorithms-and-Data-structures?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Algorithms-and-Data-structures?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imharris24/Ceasar-Cipher-CPP"><b>Ceasar Cipher C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imharris24/Fireworks-CPP"><b>Fireworks C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Fireworks-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks-CPP?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imharris24/Digital-Clock-CPP"><b>Digital Clock C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imharris24/Cricket-Academy-DBS"><b>Cricket Academy Database System</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-DBS?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-DBS?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
+</tr>
+</tbody>
+</table>
+<br/>  
 
 # 🔥 Streak Stats 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight_duo" alt="imumer12"  /></p>
