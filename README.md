@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi ,I'm Umer Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Moblie developer from Pakistan</h3>
 
@@ -189,29 +187,7 @@
 
 
 
-<table>
-<thead align="center">
-<tr border: none;>
-<td><h3>🙋‍♀️ Let's Connect</h3></td>
-<td><h3>📊 More Statistics</h3></td>
-</tr>
-	
-</thead>
-<tbody>
-<tr>
-<td>
-	
-	[![Tap to Reload](https://metrics.lecoq.io/imumer12?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imumer12)
-	
-</td>
-<td>
-[![Tap to Reload](https://metrics.lecoq.io/imumer12?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imumer12)
 
-</tr>
-
-</tbody>
-</table>
-<br/>  
 
 
 
@@ -221,12 +197,7 @@
 	
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imumer12&theme=tokyonight_duo" alt="imumer12"  />
-<br>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumer12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imumer12" /><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=imumer12&show_icons=true&count_private=true&theme=tokyonight" alt="imumer12"  />
-</br>
+[![Tap to Reload](https://metrics.lecoq.io/imumer12?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imumer12)
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
