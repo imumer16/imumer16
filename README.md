@@ -227,7 +227,7 @@
   <br/>
   <p align="center">
   <a href="https://github.com/imumer12/">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=imumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imumer12&no-bg=true&no-frame=true&theme=darkhub&column=6" width="60%"/>
   </p>
 </details>	
 
