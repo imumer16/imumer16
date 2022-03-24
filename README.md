@@ -131,7 +131,7 @@
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Plane-Game?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imumer12/Ping-Ponge"><b>Ping Pong</b></a></td>
+<td><a href="https://github.com/imumer12/Ping-Pong"><b>Ping Pong</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Ping-Pong?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Ping-Pong?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Ping-Pong?style=flat-square"/></td>
