@@ -175,7 +175,8 @@
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Birthday-Wish?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Birthday-Wish?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Birthday-Wish?style=flat-square"/></td>
-<td><im
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Birthday-Wish?style=flat-square"/></td>
+</tr>
 </tbody>
 </table>
 <br/>  
