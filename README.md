@@ -138,6 +138,13 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Ping-Pong?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Ping-Pong?style=flat-square"/></td>
 </tr>
+	<td><a href="https://github.com/imumer12/Screen-Capture"><b>Screen Capture</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Screen-Capture?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Screen-Capture?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Screen-Capture?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Screen-Capture?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Screen-Capture?style=flat-square"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/imumer12/Power-Options"><b>Power Options</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Power-Options?style=flat-square&labelColor=343b41"/></td>
