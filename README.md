@@ -59,6 +59,14 @@
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/imumer12?style=flat-square"/></td>
 </tr>
 <tr>
+<td><a href="https://github.com/imumer12/Tic-Tac-Toe-Javascript"><b>Tic-Tac-Toe-Javascript</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Tic-Tac-Toe-Javascript?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Tic-Tac-Toe-Javascript?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Tic-Tac-Toe-Javascript?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Tic-Tac-Toe-Javascript?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Tic-Tac-Toe-Javascript?style=flat-square"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/imumer12/Algorithms-and-Data-structures"><b>Algorithms-and-Data-structures</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
