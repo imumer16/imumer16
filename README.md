@@ -178,6 +178,15 @@
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Python-Usefull-Code?style=flat-square"/></td>
 </tr>
 <tr>
+<td><a href="https://github.com/imumer12/Tic-tac-Toe-Console-Cplusplus"><b>Tic-tac-Toe-Console-Cplusplus</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Tic-tac-Toe-Console-Cplusplus?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Tic-tac-Toe-Console-Cplusplus?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer12/Tic-tac-Toe-Console-Cplusplus?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer12/Tic-tac-Toe-Console-Cplusplus?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer12/Tic-tac-Toe-Console-Cplusplus?style=flat-square"/></td>
+</tr>
+<tr>
+<tr>
 <td><a href="https://github.com/imumer12/Birthday-Wish"><b>Birthday Wish</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer12/Birthday-Wish?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imumer12/Birthday-Wish?style=flat-square&labelColor=343b41"/></td>
