@@ -67,13 +67,7 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Weather-App?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Weather-App?style=flat-square"/></td>
 </tr>
-<td><a href="https://github.com/imumer16/CSS-Projects"><b>CSS Projects</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/CSS-Projects?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/CSS-Projects?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/CSS-Projects?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/CSS-Projects?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/CSS-Projects?style=flat-square"/></td>
-</tr>
+
 <tr>
 <td><a href="https://github.com/imumer16/Tic-Tac-Toe-Javascript"><b>Tic-Tac-Toe-Javascript</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Tic-Tac-Toe-Javascript?style=flat-square&labelColor=343b41"/></td>
@@ -82,14 +76,7 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Tic-Tac-Toe-Javascript?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Tic-Tac-Toe-Javascript?style=flat-square"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/imumer16/Algorithms-and-Data-structures"><b>Algorithms-and-Data-structures</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Algorithms-and-Data-structures?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Algorithms-and-Data-structures?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Algorithms-and-Data-structures?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Algorithms-and-Data-structures?style=flat-square"/></td>
-</tr>
+
 
 
 <tr>
@@ -100,14 +87,7 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Car-Game?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Car-Game?style=flat-square"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/imumer16/Python-turtle"><b>Python turtle</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Python-turtle?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Python-turtle?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Python-turtle?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Python-turtle?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Python-turtle?style=flat-square"/></td>
-</tr>
+
 
 <tr>
 <td><a href="https://github.com/imumer16/Tic-Tac-Toe-Csharp"><b>Tic-Tac-Toe-Csharp</b></a></td>
@@ -128,8 +108,32 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Tic-tac-Toe-Console-Cplusplus?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Tic-tac-Toe-Console-Cplusplus?style=flat-square"/></td>
 </tr>
+
 <tr>
+<td><a href="https://github.com/imumer16/Hangman"><b>Hangman</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Hangman?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Hangman?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Hangman?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Hangman?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Hangman?style=flat-square"/></td>
+</tr>
+
 <tr>
+<td><a href="https://github.com/imumer16/Random-Quotes-Generator"><b>Random-Quotes-Generator</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Random-Quotes-Generator?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Random-Quotes-Generator?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Random-Quotes-Generator?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Random-Quotes-Generator?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Random-Quotes-Generator?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/imumer16/Random-Jokes-Generator"><b>Random-Jokes-Generator</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Random-Jokes-Generator?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Random-Jokes-Generator?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Random-Jokes-Generator?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Random-Jokes-Generator?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Random-Jokes-Generator?style=flat-square"/></td>
+</tr>
 
 </tbody>
 </table>
