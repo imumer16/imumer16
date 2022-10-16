@@ -215,7 +215,8 @@
 </p>
 <br/>
 
-![Metrics](https://metrics.lecoq.io/imumer16?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&people=1&reactions=1&stargazers=1&gists=1&pagespeed=1&fortune=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts.type=classic&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKarachi)
+![Metrics](https://metrics.lecoq.io/imumer16?template=classic&isocalendar=1&lines=1&followup=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FKarachi)
+
 
 <br/>
 
