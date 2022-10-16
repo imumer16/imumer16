@@ -90,14 +90,8 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Algorithms-and-Data-structures?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Algorithms-and-Data-structures?style=flat-square"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/imumer16/Spam-Bot"><b>Spam Bot</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Spam-Bot?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Spam-Bot?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Spam-Bot?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Spam-Bot?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Spam-Bot?style=flat-square"/></td>
-</tr>
+
+
 <tr>
 <td><a href="https://github.com/imumer16/Car-Game"><b>Car-Game</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Car-Game?style=flat-square&labelColor=343b41"/></td>
@@ -114,14 +108,7 @@
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Python-turtle?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Python-turtle?style=flat-square"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/imumer16/Saving-Newton-Game"><b>Saving-Newton-Game</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Saving-Newton-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Saving-Newton-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Saving-Newton-Game?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Saving-Newton-Game?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Saving-Newton-Game?style=flat-square"/></td>
-</tr>
+
 <tr>
 <td><a href="https://github.com/imumer16/Tic-Tac-Toe-Csharp"><b>Tic-Tac-Toe-Csharp</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Tic-Tac-Toe-Csharp?style=flat-square&labelColor=343b41"/></td>
@@ -132,23 +119,6 @@
 </tr>
 
 
-
-<tr>
-<td><a href="https://github.com/imumer16/Plane-Game"><b>Plane Game</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Plane-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Plane-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Plane-Game?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Plane-Game?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Plane-Game?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imumer16/Ping-Pong"><b>Ping Pong</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imumer16/Ping-Pong?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imumer16/Ping-Pong?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imumer16/Ping-Pong?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imumer16/Ping-Pong?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imumer16/Ping-Pong?style=flat-square"/></td>
-</tr>
 
 <tr>
 <td><a href="https://github.com/imumer16/Tic-tac-Toe-Console-Cplusplus"><b>Tic-tac-Toe-Console-Cplusplus</b></a></td>
