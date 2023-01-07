@@ -10,7 +10,7 @@
 
 <br>
 
-<h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Hi there! My name is Umer Ahmed and I am currently a student at Capital University of Science and Technology. I am passionate about programming and love nothing more than diving into code and building new projects. I consider myself a full-stack developer, comfortable working with both front-end and back-end technologies. In my free time, you can find me tinkering with new languages and frameworks, always looking to improve my skills and learn something new. I am excited to see where my passion for programming takes me in the future.</h4>
 
 <p align="center">
 <img align="center" src="https://github.com/imumer16/imumer16/blob/main/Resources/animated-line-image-0069.gif" width="60%" />
